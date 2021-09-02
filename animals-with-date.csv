@@ -1,0 +1,401 @@
+Name,Surname,Animal,Start Date
+Bradley,Chandler,Emperor Penguins,2020-04-26
+Dean,Gilmore,Emperor Penguins,2018-01-10
+Lucius,Glass,King Penguins,2019-01-13
+Cailin,Mills,Weddell seals,2018-07-27
+Audra,Cobb,Giant Petrel,2019-05-26
+Desiree,Delacruz,Weddell seals,2018-05-05
+Alfreda,Ryan,Southern Fur Seal,2018-07-13
+Hamilton,Manning,Wandering Albatross,2018-03-09
+Lyle,Schultz,Krill,2020-01-08
+Hu,Hyde,Whale Species,2019-10-16
+Melanie,David,Snowy Sheathbill,2020-06-27
+Rogan,Miranda,Snow Petrel,2019-04-15
+Casey,Tate,Krill,2018-02-16
+Nell,Ewing,Emperor Penguins,2019-05-23
+Hayden,Puckett,Leopard Seal,2019-07-09
+Britanni,Burgess,Southern Fur Seal,2019-11-11
+Halla,Cantu,Leopard Seal,2020-04-22
+Yoshio,Pittman,Adelie Penguins,2018-11-01
+Scott,Nelson,Emperor Penguins,2019-04-24
+Barry,Fry,Krill,2018-05-15
+Aurora,Sanford,Adelie Penguins,2020-06-13
+Oleg,Noble,Wandering Albatross,2020-05-07
+Reuben,Stevens,Whale Species,2018-02-26
+Fleur,Baker,Krill,2019-01-26
+Fritz,Tanner,Blue Eyed Shag,2019-07-08
+Roth,Foster,Emperor Penguins,2020-01-09
+Jennifer,Murphy,Gentoo Penguins,2020-04-29
+Raymond,Pate,Emperor Penguins,2020-05-16
+Edward,Nichols,Snowy Sheathbill,2018-02-08
+Malcolm,Harvey,Whale Species,2019-08-23
+Wesley,Weaver,Adelie Penguins,2019-07-30
+Hedwig,Cain,Krill,2020-01-20
+Beverly,Vasquez,Gentoo Penguins,2018-08-12
+Neil,Glass,Southern Elephant Seal,2018-01-25
+Zeus,Kirk,King Penguins,2019-08-24
+Brynn,Miles,Giant Petrel,2020-01-14
+Price,Ferrell,Gentoo Penguins,2018-10-13
+Linus,Perry,Weddell seals,2019-07-05
+Abigail,Bishop,Crabeater Seal,2018-07-03
+Chancellor,Kline,Snowy Sheathbill,2019-05-01
+Micah,Bentley,Antarctic Skua,2019-12-04
+Burton,Sears,Leopard Seal,2018-04-25
+Tatyana,Perkins,Gentoo Penguins,2018-08-15
+Dana,Miles,Whale Species,2019-04-10
+Desirae,Gaines,King Penguins,2020-02-09
+Ezra,Santos,Crabeater Seal,2018-12-07
+Dane,Schwartz,Adelie Penguins,2018-01-03
+Lareina,Mercado,Crabeater Seal,2018-03-07
+Tanek,Burton,Emperor Penguins,2020-01-13
+May,Oliver,Snowy Sheathbill,2019-02-20
+Kyle,Roach,Gentoo Penguins,2020-06-02
+Hoyt,Kramer,Southern Fur Seal,2019-08-01
+Yetta,Thomas,Cape Pigeon,2019-11-19
+Nigel,Oneill,Blue Eyed Shag,2019-09-19
+Sheila,Richards,King Penguins,2019-03-18
+Orlando,Stanley,King Penguins,2019-08-04
+Bethany,Byers,King Penguins,2018-09-25
+Deacon,Blevins,Blue Eyed Shag,2019-12-31
+Lewis,Ochoa,Cape Pigeon,2018-02-02
+Evangeline,Cooley,Snow Petrel,2019-10-31
+Benjamin,Vang,Adelie Penguins,2018-07-16
+Logan,Sharp,Cape Pigeon,2019-02-03
+Hedwig,Bullock,Snowy Sheathbill,2018-11-17
+Adam,Knowles,Southern Elephant Seal,2018-04-12
+Laith,Moreno,Emperor Penguins,2020-03-07
+Kyla,Gay,Snow Petrel,2020-01-13
+Megan,Reed,Antarctic Skua,2019-12-11
+Ruby,Travis,Emperor Penguins,2019-09-08
+Benedict,Mathis,Gentoo Penguins,2019-09-13
+Tashya,Schroeder,Snow Petrel,2018-01-08
+Hayden,Pollard,Gentoo Penguins,2019-04-13
+Giselle,Chavez,Emperor Penguins,2020-04-14
+Baxter,Combs,Whale Species,2019-07-20
+Madonna,Perkins,Weddell seals,2019-08-02
+Indigo,Chen,Blue Eyed Shag,2018-01-15
+Olivia,Frederick,Southern Elephant Seal,2020-01-24
+Amery,Gardner,Leopard Seal,2018-06-16
+Erica,Compton,Gentoo Penguins,2018-05-01
+Kylan,Spencer,Blue Eyed Shag,2019-02-11
+Ryder,Adams,Leopard Seal,2019-05-07
+Raven,Benton,King Penguins,2019-04-09
+Vera,Carver,Adelie Penguins,2020-04-22
+Julie,Bates,Whale Species,2018-04-12
+Phyllis,Miller,Southern Elephant Seal,2019-02-28
+Tiger,May,Antarctic Skua,2018-01-08
+Lesley,Fuentes,Blue Eyed Shag,2019-10-16
+Xandra,Gonzalez,Giant Petrel,2020-01-24
+Brianna,Soto,Weddell seals,2018-03-25
+Liberty,Pena,King Penguins,2020-06-06
+Ulla,Fulton,Crabeater Seal,2019-12-13
+Clio,Petersen,Weddell seals,2018-02-28
+MacKenzie,Murphy,Giant Petrel,2019-11-26
+Macon,Livingston,Krill,2019-01-11
+Dylan,Jackson,Southern Fur Seal,2018-02-26
+Michael,Pickett,Snowy Sheathbill,2019-01-14
+Xyla,Ferrell,Crabeater Seal,2020-06-28
+Nicholas,Brock,Blue Eyed Shag,2020-06-24
+Audra,Reyes,King Penguins,2018-07-22
+Maris,Rivera,Adelie Penguins,2018-08-30
+Dana,Harrington,Leopard Seal,2019-02-21
+India,Brock,Weddell seals,2018-03-30
+Carol,Mathis,Weddell seals,2018-03-30
+Ivory,Mccullough,Southern Fur Seal,2020-02-11
+Desirae,Cash,Weddell seals,2019-07-09
+Chadwick,Dillon,Krill,2018-04-15
+Ralph,Griffith,Gentoo Penguins,2018-12-11
+Plato,Taylor,Whale Species,2018-11-14
+Bruno,Wallace,Crabeater Seal,2020-05-17
+Kelly,Dillon,Snowy Sheathbill,2019-03-30
+Gavin,Garrett,Krill,2019-02-23
+Giacomo,Duffy,Blue Eyed Shag,2020-02-26
+Gemma,Booker,Krill,2020-05-22
+Jonas,Moon,Southern Fur Seal,2018-04-30
+Lydia,Mills,Blue Eyed Shag,2019-05-23
+Shellie,Poole,Giant Petrel,2019-12-15
+Iris,Ramirez,Krill,2018-04-27
+Nathaniel,Puckett,Adelie Penguins,2019-02-17
+Aladdin,Knight,Cape Pigeon,2019-08-23
+Audra,Horn,Wandering Albatross,2019-06-03
+Hayes,Whitley,Wandering Albatross,2019-10-31
+Eric,Blackburn,Adelie Penguins,2019-09-17
+Blake,Franco,Cape Pigeon,2020-05-28
+Stewart,Simmons,Crabeater Seal,2020-02-29
+Anne,Giles,Gentoo Penguins,2019-03-11
+Oleg,Love,King Penguins,2018-12-09
+Jason,Meyer,Whale Species,2019-09-26
+Casey,Gross,Whale Species,2019-01-26
+Ronan,Daugherty,Weddell seals,2018-12-04
+Adrienne,Higgins,Adelie Penguins,2019-06-08
+Andrew,Donaldson,Snowy Sheathbill,2019-01-15
+Hedy,Guzman,Leopard Seal,2018-05-20
+Fiona,Montoya,Leopard Seal,2020-03-24
+Idola,Warren,Gentoo Penguins,2019-10-15
+Jenna,Odom,Cape Pigeon,2019-05-02
+Keane,Greer,Antarctic Skua,2019-02-18
+Patience,Mann,Blue Eyed Shag,2018-06-08
+Lillith,Pace,Snow Petrel,2018-02-02
+Lucas,Fuentes,Adelie Penguins,2019-04-05
+Darryl,Levy,Crabeater Seal,2019-04-30
+Constance,Rocha,Crabeater Seal,2019-08-13
+Cade,Grant,Wandering Albatross,2019-12-09
+Denise,Wilkins,Gentoo Penguins,2019-03-30
+Lane,Newman,Whale Species,2020-01-14
+Amela,Grant,Blue Eyed Shag,2020-03-15
+Lynn,Fowler,Cape Pigeon,2018-07-12
+Leigh,Willis,Weddell seals,2020-01-13
+Lionel,Wells,King Penguins,2019-05-14
+Clare,Saunders,Giant Petrel,2019-01-21
+Richard,Dillon,Snowy Sheathbill,2019-01-19
+Kaden,Moon,Leopard Seal,2020-04-23
+Jameson,Rowland,Gentoo Penguins,2018-07-13
+Otto,Bird,Leopard Seal,2019-05-28
+Hyacinth,Holman,Krill,2018-08-23
+TaShya,Pruitt,Giant Petrel,2020-03-10
+Ryan,Garrett,Leopard Seal,2018-10-26
+Dalton,Dennis,Krill,2018-02-07
+David,Lamb,Krill,2019-05-29
+Hiram,Browning,Antarctic Skua,2018-01-21
+Xaviera,Spence,Crabeater Seal,2019-08-06
+Gretchen,Holden,Emperor Penguins,2020-03-12
+Rigel,Stafford,Adelie Penguins,2018-10-02
+Linda,Figueroa,Snow Petrel,2019-08-19
+Amelia,Bowen,Southern Fur Seal,2019-08-24
+Sigourney,Cameron,Antarctic Skua,2018-07-27
+Ian,Petty,Snow Petrel,2018-08-19
+Kibo,Barron,Snow Petrel,2018-12-30
+Teagan,Dodson,Emperor Penguins,2019-07-30
+Emi,William,Cape Pigeon,2019-12-15
+Quintessa,Ramsey,Southern Elephant Seal,2019-08-31
+Leilani,May,Southern Fur Seal,2018-09-22
+Gretchen,Schroeder,Crabeater Seal,2018-03-20
+Maxwell,Crosby,Krill,2018-04-03
+Aurelia,Campbell,Adelie Penguins,2019-10-01
+Jermaine,Newman,Southern Fur Seal,2020-04-18
+James,Schwartz,Southern Fur Seal,2018-10-11
+Garrison,Keith,Southern Fur Seal,2020-04-13
+Arthur,Bradley,Southern Fur Seal,2018-10-18
+Adara,Mclaughlin,Weddell seals,2019-02-12
+Summer,Fowler,Southern Fur Seal,2018-03-27
+Carolyn,Whitney,Wandering Albatross,2018-08-05
+Cally,Gilmore,Wandering Albatross,2019-11-24
+Nicholas,Neal,Southern Elephant Seal,2018-09-08
+Roanna,Barry,Krill,2019-09-28
+Oscar,Copeland,Southern Elephant Seal,2018-05-28
+Drake,English,Wandering Albatross,2020-03-12
+Keane,Randall,Snowy Sheathbill,2019-06-19
+Jescie,Bray,Southern Elephant Seal,2018-11-03
+Grant,Daugherty,Antarctic Skua,2020-06-30
+Belle,Lane,Weddell seals,2019-06-02
+Katelyn,May,Snow Petrel,2018-01-23
+Margaret,Hooper,Adelie Penguins,2020-01-05
+Georgia,Larson,Southern Elephant Seal,2019-09-01
+Rashad,Mcconnell,Krill,2018-10-08
+Irene,Dudley,Snowy Sheathbill,2018-02-25
+Iona,Mckee,Southern Elephant Seal,2020-02-15
+Lavinia,Whitfield,Southern Elephant Seal,2020-05-10
+Maile,Hughes,Krill,2019-09-11
+Haviva,Morrow,Giant Petrel,2019-07-08
+Grady,Charles,Whale Species,2018-09-13
+Walker,Cline,Antarctic Skua,2019-03-27
+Brendan,Pugh,Blue Eyed Shag,2019-08-25
+Honorato,Solomon,Whale Species,2019-05-24
+Anjolie,Powell,Leopard Seal,2019-10-01
+Fatima,Kerr,Leopard Seal,2019-11-16
+Keefe,Logan,Snow Petrel,2020-01-28
+George,Frazier,King Penguins,2018-12-28
+Vivien,Stark,Emperor Penguins,2018-03-08
+Kyra,Vance,Weddell seals,2020-06-10
+Serena,Hodge,Gentoo Penguins,2019-08-06
+Ivana,Bowen,Snowy Sheathbill,2018-07-29
+Oleg,Williamson,Cape Pigeon,2018-09-27
+Sage,Frye,Emperor Penguins,2018-11-30
+Keane,Tanner,Cape Pigeon,2018-05-09
+Ivan,Dillard,Antarctic Skua,2020-02-06
+Malachi,Mccullough,Antarctic Skua,2019-02-27
+Hillary,Vega,Southern Fur Seal,2020-01-23
+George,William,Southern Fur Seal,2019-12-19
+Bert,Burke,Snowy Sheathbill,2018-06-01
+Rudyard,Williamson,Emperor Penguins,2019-05-06
+Lars,Roth,Krill,2018-09-28
+Uriah,Moss,Whale Species,2018-08-03
+Carter,Cummings,Whale Species,2018-12-25
+Branden,Cabrera,Gentoo Penguins,2018-09-29
+Ruby,Richard,Adelie Penguins,2020-01-05
+Aurora,Macias,Antarctic Skua,2020-05-19
+Leilani,Ayala,Krill,2018-06-08
+Tanek,Edwards,Southern Fur Seal,2020-06-04
+Taylor,Butler,Krill,2019-04-07
+Marsden,Oneill,Crabeater Seal,2019-10-02
+Dominic,Barlow,Gentoo Penguins,2018-07-04
+Vaughan,Carter,Cape Pigeon,2018-01-30
+Fay,Schroeder,Cape Pigeon,2019-03-15
+Colt,Mcdaniel,Wandering Albatross,2018-03-03
+Kane,Rosa,Snowy Sheathbill,2020-03-09
+Jamalia,Clarke,Cape Pigeon,2018-09-06
+Joy,Hicks,Adelie Penguins,2018-01-25
+Kiona,Nguyen,Weddell seals,2020-06-11
+Quynn,Parsons,King Penguins,2020-06-25
+Eleanor,Hood,Emperor Penguins,2019-07-09
+Eve,Meyer,Snowy Sheathbill,2019-02-04
+Laura,Richmond,Whale Species,2018-03-13
+Yoko,Gray,Krill,2018-09-16
+Nathan,Mays,Snowy Sheathbill,2019-05-20
+Janna,Green,Emperor Penguins,2020-03-04
+Jasmine,Howard,Antarctic Skua,2018-07-13
+Tana,Calhoun,Snow Petrel,2018-12-12
+Lucas,Myers,Weddell seals,2018-09-02
+Echo,Foster,Crabeater Seal,2018-01-26
+Brody,Carter,Cape Pigeon,2018-01-13
+Karyn,Roy,Snow Petrel,2019-12-13
+Jarrod,Nicholson,Snow Petrel,2020-06-20
+Alma,Ford,Blue Eyed Shag,2018-05-31
+Jesse,Wade,Giant Petrel,2020-01-25
+Quon,Figueroa,Snow Petrel,2018-07-17
+Hu,Simpson,Cape Pigeon,2019-06-27
+Lane,Mendoza,Adelie Penguins,2018-10-19
+Cherokee,Dillard,Whale Species,2019-09-06
+Candice,Malone,Antarctic Skua,2019-10-03
+Dylan,Mcfadden,Wandering Albatross,2018-04-05
+Lilah,Hanson,Southern Fur Seal,2019-12-01
+Slade,Roman,Adelie Penguins,2019-11-20
+Jonah,Mcdowell,Snowy Sheathbill,2018-06-19
+Quamar,Stewart,Wandering Albatross,2019-10-04
+Lee,Phelps,King Penguins,2018-05-04
+Felix,Hunt,King Penguins,2018-11-14
+Asher,Sawyer,Giant Petrel,2018-08-01
+Isabelle,Jefferson,Weddell seals,2019-08-15
+Simone,Cash,Snow Petrel,2018-10-06
+Jelani,Fernandez,Snowy Sheathbill,2019-03-22
+Branden,Hammond,Southern Fur Seal,2018-07-24
+Martin,Dalton,Krill,2019-03-03
+Kasper,Alford,Southern Fur Seal,2018-01-27
+Paul,Spears,Southern Elephant Seal,2019-05-06
+Mary,Molina,Snow Petrel,2019-10-18
+Connor,Grimes,Adelie Penguins,2020-01-19
+Ainsley,Knight,Emperor Penguins,2019-01-21
+Adrienne,Dalton,Snow Petrel,2019-09-02
+Jack,Franco,Southern Fur Seal,2020-05-03
+Benjamin,Blake,Blue Eyed Shag,2019-03-05
+Xerxes,James,Weddell seals,2019-03-06
+Savannah,Wise,Weddell seals,2018-10-04
+Justina,Hogan,Snowy Sheathbill,2019-09-29
+Keaton,Edwards,Whale Species,2019-03-17
+Rose,Compton,Cape Pigeon,2020-01-16
+Mary,Eaton,Weddell seals,2018-08-11
+Kirsten,Bernard,Leopard Seal,2018-06-13
+Knox,Williamson,Gentoo Penguins,2019-02-15
+Wesley,Crane,Gentoo Penguins,2018-10-07
+Venus,Love,Krill,2019-05-28
+Michelle,Nielsen,Blue Eyed Shag,2018-05-09
+Aubrey,Kim,Wandering Albatross,2018-04-19
+Katell,Gill,Wandering Albatross,2020-06-25
+Jessamine,Myers,Cape Pigeon,2019-04-18
+Kelsey,Adkins,Emperor Penguins,2020-06-29
+Aidan,Schroeder,Antarctic Skua,2020-03-13
+Duncan,Lowery,Whale Species,2018-07-27
+Ciaran,Chavez,Cape Pigeon,2019-11-07
+Mannix,Estes,Emperor Penguins,2020-03-09
+Morgan,Massey,Weddell seals,2019-07-26
+Zephr,Woodward,Giant Petrel,2018-04-13
+Virginia,Gordon,Snowy Sheathbill,2018-04-20
+Felix,Parks,Weddell seals,2019-01-29
+Eric,Giles,King Penguins,2019-07-01
+Ivory,Glenn,Whale Species,2018-02-11
+Zelda,Deleon,Emperor Penguins,2018-12-27
+Tate,Chang,Leopard Seal,2020-03-27
+Zeph,English,Cape Pigeon,2020-03-10
+Olga,Vincent,Wandering Albatross,2018-10-12
+Henry,Bullock,Snowy Sheathbill,2018-08-01
+Rina,Mcfarland,Antarctic Skua,2018-02-10
+Vera,Mccullough,Crabeater Seal,2018-05-02
+Neil,Warner,Wandering Albatross,2019-02-05
+Macy,Walls,Southern Fur Seal,2019-11-22
+Xaviera,Carlson,Weddell seals,2019-08-05
+Brenda,Barton,Leopard Seal,2019-07-22
+Neville,Ball,Southern Fur Seal,2019-05-26
+Colin,Maddox,Snow Petrel,2020-02-05
+Lee,Jacobs,Gentoo Penguins,2020-02-17
+Samantha,Lee,Cape Pigeon,2018-06-11
+Aurelia,Giles,Krill,2018-01-01
+Vance,Hardin,Adelie Penguins,2018-03-26
+Fallon,Neal,Emperor Penguins,2018-12-10
+Giselle,Dillon,King Penguins,2020-04-24
+Vaughan,English,Adelie Penguins,2019-05-06
+Gwendolyn,Castillo,Emperor Penguins,2018-12-24
+Gage,Vega,Southern Fur Seal,2019-03-04
+Sydnee,Pickett,Whale Species,2018-02-05
+Josiah,Stuart,Blue Eyed Shag,2018-08-01
+Elton,Schmidt,Whale Species,2018-05-16
+Hyacinth,Mack,Krill,2018-09-08
+Lucy,Wade,Giant Petrel,2019-02-25
+Miranda,Vasquez,Adelie Penguins,2019-06-08
+Diana,Mccall,Blue Eyed Shag,2019-02-14
+Jasper,Gibbs,Giant Petrel,2018-05-24
+Elvis,Davidson,Southern Elephant Seal,2019-09-19
+Ali,Tate,Weddell seals,2018-08-18
+Wynne,Anthony,Leopard Seal,2019-12-20
+Tallulah,Dean,King Penguins,2018-05-23
+Chase,Chandler,Crabeater Seal,2019-05-10
+Lawrence,Berger,Weddell seals,2018-12-09
+Bradley,Workman,King Penguins,2018-02-09
+Rosalyn,Bullock,Crabeater Seal,2019-08-19
+Tasha,Hodge,Whale Species,2020-01-04
+Carol,Weiss,Krill,2019-10-22
+Ferris,Benton,Southern Elephant Seal,2018-07-05
+Kalia,Perez,Snowy Sheathbill,2020-05-13
+Thaddeus,Hughes,Antarctic Skua,2019-07-14
+Eleanor,Dorsey,Crabeater Seal,2019-03-29
+Jaden,Lowe,Whale Species,2018-06-24
+Darius,Goodman,Krill,2019-10-06
+Josiah,Morrow,Whale Species,2020-03-09
+Hedley,Phelps,King Penguins,2018-08-01
+Kelly,Byrd,Giant Petrel,2018-09-14
+Isabelle,Harper,Antarctic Skua,2018-12-18
+Alexander,Dillard,Giant Petrel,2019-08-28
+Neil,Orr,Snow Petrel,2018-12-22
+Halla,Henry,Southern Fur Seal,2018-04-20
+Judah,Sloan,Wandering Albatross,2018-05-31
+Myra,Chambers,Weddell seals,2018-06-20
+Allistair,Mcdaniel,Emperor Penguins,2019-06-01
+Laura,Chan,Giant Petrel,2018-12-08
+Linus,Cantrell,Southern Fur Seal,2020-04-04
+Fatima,Robinson,Krill,2019-09-06
+Curran,Farley,Crabeater Seal,2019-01-12
+Harding,Mcmillan,Blue Eyed Shag,2019-07-04
+Ella,Sloan,Blue Eyed Shag,2019-08-24
+Rhiannon,Dodson,Whale Species,2020-03-09
+Reese,Franks,King Penguins,2018-10-14
+Stewart,Todd,Antarctic Skua,2019-05-01
+Kay,Pratt,Antarctic Skua,2020-03-24
+Kristen,Christensen,Blue Eyed Shag,2018-01-29
+Jerome,Livingston,King Penguins,2018-02-19
+Heather,Warren,Weddell seals,2018-07-02
+Thane,Rich,Gentoo Penguins,2020-01-26
+Kiara,Farrell,Giant Petrel,2019-11-27
+Justin,Dalton,Snow Petrel,2019-10-17
+Holmes,Kent,King Penguins,2018-09-08
+Alana,Potts,Southern Fur Seal,2018-01-26
+Clementine,Ford,Blue Eyed Shag,2018-10-20
+Darrel,Mccray,Whale Species,2019-07-19
+Carson,Finley,Southern Fur Seal,2019-08-20
+Beck,Padilla,Blue Eyed Shag,2018-09-21
+Gregory,Berger,Gentoo Penguins,2018-07-25
+Phelan,Fields,Blue Eyed Shag,2019-12-27
+Kylan,Mccormick,Antarctic Skua,2019-04-26
+Jordan,Golden,Southern Elephant Seal,2020-06-27
+Yoshi,Molina,Cape Pigeon,2020-01-02
+Tobias,Mcleod,King Penguins,2020-03-05
+Alfonso,Jackson,Wandering Albatross,2018-03-25
+Kennedy,Harrington,Gentoo Penguins,2019-06-06
+Kessie,Rutledge,Snow Petrel,2018-12-14
+Rafael,Vaughan,King Penguins,2020-05-13
+Lucy,Calhoun,Emperor Penguins,2019-01-05
+Paula,Norris,Antarctic Skua,2018-12-06
+Jarrod,Carlson,Wandering Albatross,2018-01-07
+Wyoming,Pacheco,King Penguins,2019-06-02
+Iris,George,Antarctic Skua,2018-04-02
+Devin,Foley,Emperor Penguins,2019-05-04
+Stewart,Weeks,King Penguins,2018-05-15
+Amaya,Mercado,Southern Fur Seal,2020-03-13
